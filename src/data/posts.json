@@ -1,6 +1,6 @@
 [
     {   "id": "1",
-        "image": "./src/assets/posts/Lemon-Cornmeal-Cake-500x500.webp",
+        "image": "./posts/Lemon-Cornmeal-Cake-500x500.webp",
         "title": "Lemon Cornmeal Cake",
         "tags" : [
             "blueberries", "lemon"
@@ -8,7 +8,7 @@
     },
     {
         "id": "2",
-        "image": "./src/assets/posts/Lemonade-Chicken-500x500.webp",
+        "image": "/posts/Lemonade-Chicken-500x500.webp",
         "title": "Lemonade Chicken",
         "tags" : [
             "chicken", "lemon"
@@ -16,7 +16,7 @@
     },
     {
         "id": "3",
-        "image": "./src/assets/posts/Blueberry-Margarita-500x500.webp",
+        "image": "posts/Blueberry-Margarita-500x500.webp",
         "title": "Blueberry Margarita",
         "tags" : [
             "blueberries", "lemon"
