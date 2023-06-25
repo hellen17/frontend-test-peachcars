@@ -25,7 +25,7 @@
 
     {
         "id": "4",
-        "image": "./src/assets/posts/Strawberry-Buttermilk-Pancakes-500x500.webp",
+        "image": "posts/Strawberry-Buttermilk-Pancakes-500x500.webp",
         "title": "Strawberry Buttermilk Pancakes",
         "tags" : [
             "strawberry", "pancakes"
@@ -34,7 +34,7 @@
     
     {
         "id": "5",
-        "image": "./src/assets/posts/Strawberry-Sauce-500x500.webp",
+        "image": "posts/Strawberry-Sauce-500x500.webp",
         "title": "Strawberry Sauce",
         "tags" : [
             "strawberry"
