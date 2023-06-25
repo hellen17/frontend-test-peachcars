@@ -38,7 +38,7 @@
 
             const handleLogin = () => {
                 isLogin.value = true;
-                router.push('/');
+                router.push('/dashboard');
             }
 
             return {
