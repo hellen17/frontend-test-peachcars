@@ -68,6 +68,7 @@
     flex-wrap: wrap;
     gap: 2em;
     margin-top: 2em;
+    align-content: center;
 }
  .card{
     background-color: #fff;

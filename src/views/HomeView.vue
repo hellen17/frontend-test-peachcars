@@ -1,14 +1,13 @@
 <script setup>
 import CTA from '../components/CTA.vue';
 import Posts from '../components/Posts.vue';
-import Navbar from '../components/Navbar.vue';
 </script>
 
 <template>
   <main class="container">
-    <h1 class="py-4">Dashboard</h1>
+    <h1 class="py-4 title">Dashboard</h1>
     <CTA />
-    <h2 class="py-4">Latest</h2>
+    <h2 class="py-4 title">Latest</h2>
     <Posts />
   </main>
 </template>
@@ -25,5 +24,12 @@ import Navbar from '../components/Navbar.vue';
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+.title{
+  color:  #595959;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24.466px;
+}
+
 
 </style>
