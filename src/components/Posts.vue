@@ -75,6 +75,7 @@
     border-radius: 5px;
     display: flex;
     flex-direction: row;
+    flex-basis: calc(33.33% - 2em); /* Set width for three cards per row with 2em gap */
     gap: 2em;
     padding: 10px;
  }
