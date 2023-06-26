@@ -71,6 +71,7 @@
   flex-direction: column;
   gap: 2rem;
   align-items: center;
+  justify-content: center;
   height: 100vh;
 }
 
