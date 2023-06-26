@@ -9,7 +9,7 @@
             </router-link>
         </div>
         <img src="@/assets/hamburger.png" alt="menu" class="hamburger-menu" />
-        <p>Nairobi Sausages</p>
+        <p class="nav-header">Nairobi Sausages</p>
         <img src="@/assets/avatar.png" class="avatar" alt="profile-icon" />
     </div>
 </template>
@@ -32,6 +32,9 @@ import { useRouter } from 'vue-router';
 a{
     text-decoration: none;
     color: #000;
+}
+.nav-header{
+    font-weight: 700;
 }
 .avatar, .hamburger-menu{
     cursor: pointer;
